@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/Logo-SYNTHEC.png alt="SYNTHEC Logo" width="200"/>
+  <img src="img/Logo-SYNTHEC.png" alt="SYNTHEC Logo" width="200"/>
   <h1>SYNTHEC Robotics</h1>
   <p><strong>Laboratorio de Investigación y Desarrollo | Tecnológico de Monterrey</strong></p>
   
