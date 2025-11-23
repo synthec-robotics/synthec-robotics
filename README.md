@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="ruta/a/tu/Logo-SYNTHEC.jpg" alt="SYNTHEC Logo" width="200"/>
+  <img src="img/Logo-SYNTHEC.png alt="SYNTHEC Logo" width="200"/>
   <h1>SYNTHEC Robotics</h1>
   <p><strong>Laboratorio de Investigación y Desarrollo | Tecnológico de Monterrey</strong></p>
   
   <a href="https://instagram.com/synthec.robotics">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:contacto.synthec@gmail.com">
+  <a href="mailto:contacto.synthec.robotics@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.youtube.com/@SynthecRobotics">
+  <a href="https://www.youtube.com/@synthec.robotics">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
@@ -28,7 +28,7 @@ Nuestra misión es democratizar el acceso a tecnologías de manufactura avanzada
 
 <div align="center">
   <a href="LINK_AL_REPOSITORIO_DE_SYMA">
-    <img src="ruta/a/tu/Logo-SYMA.jpg" alt="SYMA Banner" width="600"/>
+    <img src="img/Logo-SYMA.png" alt="SYMA Banner" width="600"/>
   </a>
   <br>
   <b>SYMA (Sistema Modular Auto-ensamblable)</b>
@@ -60,10 +60,10 @@ Utilizamos un enfoque integral de hardware y software para dar vida a nuestros r
 
 <table>
   <tr>
-    <td align="center"><a href="LINK_GITHUB_ANGEL"><b>Angel Moreno</b></a><br>Líder de Proyecto & Documentación</td>
-    <td align="center"><a href="LINK_GITHUB_CARLOS"><b>Carlos García</b></a><br>Sistemas de Locomoción</td>
-    <td align="center"><a href="LINK_GITHUB_SUSANA"><b>Susana Fang</b></a><br>Sistemas de Acoplamiento</td>
-    <td align="center"><a href="LINK_GITHUB_EMILIANO"><b>Emiliano Bustamante</b></a><br>Telecomunicaciones & Software</td>
+    <td align="center"><a href="LINK_GITHUB_ANGEL"><b>Angel Salazar</b></a><br>Líder de Proyecto</td>
+    <td align="center"><a href="LINK_GITHUB_CARLOS"><b>Carlos García</b></a><br>Sistemas Mecánicos</td>
+    <td align="center"><a href="LINK_GITHUB_SUSANA"><b>Susana Fang</b></a><br>Sistemas Electrónicos</td>
+    <td align="center"><a href="LINK_GITHUB_EMILIANO"><b>Emiliano Bustamante</b></a><br>Investigación y Documentación</td>
   </tr>
 </table>
 
