@@ -27,7 +27,7 @@ Nuestra misión es democratizar el acceso a tecnologías de manufactura avanzada
 ### 🚀 Proyecto Insignia
 
 <div align="center">
-  <a href="LINK_AL_REPOSITORIO_DE_SYMA">
+  <a href="https://github.com/synthec-robotics/syma">
     <img src="img/Logo-SYMA.png" alt="SYMA Banner" width="600"/>
   </a>
   <br>
@@ -36,7 +36,7 @@ Nuestra misión es democratizar el acceso a tecnologías de manufactura avanzada
 
 > Una plataforma de robótica modular de bajo costo inspirada en la arquitectura SMORES-EP. SYMA es un enjambre de robots capaces de locomoción independiente y auto-reconfiguración mediante acoplamiento magnético activo. 
 >
-> [**Explorar el Código Fuente y Documentación »**](LINK_AL_REPOSITORIO_DE_SYMA)
+> [**Explorar el Código Fuente y Documentación »**](https://github.com/synthec-robotics/syma)
 
 ---
 
