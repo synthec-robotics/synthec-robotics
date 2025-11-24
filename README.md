@@ -60,7 +60,7 @@ Utilizamos un enfoque integral de hardware y software para dar vida a nuestros r
 
 <table>
   <tr>
-    <td align="center"><a href="LINK_GITHUB_ANGEL"><b>Angel Salazar</b></a><br>Líder de Proyecto</td>
+    <td align="center"><a href="https://github.com/AngelIsaiSzr"><b>Angel Salazar</b></a><br>Líder de Proyecto</td>
     <td align="center"><a href="LINK_GITHUB_CARLOS"><b>Carlos García</b></a><br>Sistemas Mecánicos</td>
     <td align="center"><a href="LINK_GITHUB_SUSANA"><b>Susana Fang</b></a><br>Sistemas Electrónicos</td>
     <td align="center"><a href="LINK_GITHUB_EMILIANO"><b>Emiliano Bustamante</b></a><br>Investigación y Documentación</td>
